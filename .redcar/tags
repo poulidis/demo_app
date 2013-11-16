@@ -1,0 +1,6 @@
+1384619928
+Application	/home/poulidis/rails_projects/demo_app/config/application.rb	  class Application 
+ApplicationController	/home/poulidis/rails_projects/demo_app/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	/home/poulidis/rails_projects/demo_app/app/helpers/application_helper.rb	module ApplicationHelper
+DemoApp	/home/poulidis/rails_projects/demo_app/config/application.rb	module DemoApp
+TestCase	/home/poulidis/rails_projects/demo_app/test/test_helper.rb	class ActiveSupport::TestCase
